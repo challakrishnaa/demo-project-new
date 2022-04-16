@@ -3,3 +3,6 @@
 Maven (Build tool for java based applications).
 Sonnar Scanner (Static Code Analysis tool)
 Nexus Repository (Storing artifacts for backup purpose).
+Jenkins (CI/CD tool Heart of the DevOps)
+Docker (Containerizztion of Applications)
+Kubernetes (Depolying the applications).
