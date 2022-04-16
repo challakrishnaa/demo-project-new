@@ -1,0 +1,3 @@
+1. Linux.
+2. Git (Version Control System Tool) & Github/Bitbucket/Gitlab (Source Code Management Tool).
+Maven (Build tool for java based applications).
