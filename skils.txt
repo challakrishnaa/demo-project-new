@@ -6,3 +6,7 @@ Nexus Repository (Storing artifacts for backup purpose).
 Jenkins (CI/CD tool Heart of the DevOps)
 Docker (Containerizztion of Applications)
 Kubernetes (Depolying the applications).
+Cloud is the trending technology in the market 
+Different Cloud Service Providers are available in the market
+AWS Azure GCP 
+I learnt AWS Devops
