@@ -4,3 +4,4 @@ I am working on git merge conflicts.
 I am adding file to krishnaa/two branch
 I am fifth line to krishnaa/two branch
 I am adding 5fh line
+krishna/one---first new line 
