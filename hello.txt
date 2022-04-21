@@ -4,5 +4,9 @@ I am working on git merge conflicts.
 I am adding file to krishnaa/two branch
 I am fifth line to krishnaa/two branch
 I am adding 5fh line
+<<<<<<< HEAD
+krishnaa/two----first new line
+=======
 krishna/one---first new line
 krishna/one---second new line 
+>>>>>>> 520d72e027001693bdce61b43b6e321b7bca1011
